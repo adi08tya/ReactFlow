@@ -2,7 +2,7 @@
 
 This project is a visual representation of a **payment provider selection system** built using [React Flow](https://reactflow.dev/). It helps users understand how payments are initialized and routed based on the selected **country** and **payment provider**.
 
-![Payment Flow Screenshot](./Screenshot%202025-07-04%20194957.png)
+![Screenshot 2025-07-04 194957](https://github.com/user-attachments/assets/e459de3a-c162-4844-8bf9-4fdd0ccd94fa)
 
 ---
 
