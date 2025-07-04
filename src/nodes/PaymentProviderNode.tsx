@@ -22,6 +22,7 @@ export function PaymentProviderNode({ data , id }: NodeProps<PaymentProviderNode
         pl={"12px"}
         gap={2}
         width="140px"
+        color="black"
      >
         <Box h={4} w={4}>
            <Image

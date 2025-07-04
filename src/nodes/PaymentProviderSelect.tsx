@@ -28,7 +28,7 @@ export function PaymentProviderSelect() {
    return (
       <Menu.Root positioning={{ placement: "right-start" }}>
          <Menu.Trigger asChild>
-            <Button variant="outline" size="xs" bg='beige'>
+            <Button variant="outline" size="xs" bg='beige' color='black' _hover={{ bg: 'lightgray' }} _active={{ bg: 'gray.300' }}>
                Click to Select a paymentProvider<IoIosArrowDropdownCircle />
             </Button>
          </Menu.Trigger>

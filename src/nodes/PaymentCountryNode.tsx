@@ -13,6 +13,7 @@ export function PaymentcountryNode({
          borderRadius='8px'
          bg='#e2e8f0'
          border='2px solid #bbbdbf'
+         color='black'
          p={2}
          gap={2}
          width='155px'

@@ -9,7 +9,7 @@ export function PaymentinitNode  ({
   return (
     <Box bg="white" border="1px solid #aa1fff">
       <Box bg="#410566" p={1}>
-        <Text fontSize="sm" color="white">{label}</Text>
+        <Text fontSize="sm" color="black">{label}</Text>
       </Box>
       <Box p={2}>
         <Text fontSize="2xl" color="blue.500">₹{amount}</Text>
